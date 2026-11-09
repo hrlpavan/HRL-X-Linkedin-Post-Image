@@ -1,0 +1,162 @@
+[
+  {
+    "repo_name": "HRL-X-Linkedin-Post-Image",
+    "title": "HRL x LinkedIn Post Image System & Official REST API MCP Server",
+    "description": "HRL International Private Limited \u2014 Official Apple-Grade Light-Theme LinkedIn Post Image Generator (GitLab Orange & HRL Rose) + LinkedIn REST API MCP Server\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/HRL-X-Linkedin-Post-Image",
+    "url": "https://github.com/hrlpavan/HRL-X-Linkedin-Post-Image",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "cadence-remote-mcp",
+    "title": "Cadence Allegro X Remote MCP \u2014 Distributed macOS-to-Windows EDA Engine",
+    "description": "\u26a1 Prompt on a MacBook Air, Execute on Windows: Distributed Remote MCP Infrastructure for Cadence Allegro X & Heavy EDA Workloads\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/cadence-remote-mcp",
+    "url": "https://github.com/hrlpavan/cadence-remote-mcp",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "kicad-antigravity-project",
+    "title": "KiCad-MCP-Bridge \u2014 Distributed AI PCB Design & DRC Verification Engine",
+    "description": "Autonomous KiCad MCP + Google Antigravity PCB Design System (macOS + Windows Thunderbolt Bridge & Wi-Fi)\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/kicad-antigravity-project",
+    "url": "https://github.com/hrlpavan/kicad-antigravity-project",
+    "created_at": "2026-10",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "ai-cinematic-haze-ofx",
+    "title": "AI Cinematic Haze \u2014 OpenFX & Fusion Plugin for DaVinci Resolve",
+    "description": "A studio-grade volumetric depth haze and optical halation plugin for DaVinci Resolve, executing locally on Apple Silicon and NVIDIA RTX GPUs with zero cloud latency.\n\nKey Highlights:\n\u2022 Physically based Beer-Lambert atmospheric scattering and lens-centric depth estimation\n\u2022 Hardware-accelerated Apple Metal (MSL) and NVIDIA CUDA kernels for real-time 4K60 playback\n\u2022 ACEScc and DaVinci Wide Gamut color-space preserving optical halation\n\u2022 Includes both native C++ OpenFX bundle and cross-platform Fusion .fuse shader\n\nTech Stack: C++20, OpenFX API, Apple Metal, NVIDIA CUDA, DaVinci Resolve Fusion\nRepository: https://github.com/hrlpavan/ai-cinematic-haze-ofx",
+    "url": "https://github.com/hrlpavan/ai-cinematic-haze-ofx",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "aarogyasetu",
+    "title": "AAROGYASETU \u2014 2G Low-Bandwidth Rural Telemedicine Platform",
+    "description": "AAROGYASETU (\u0906\u0930\u094b\u0917\u094d\u092f\u0938\u0947\u0924\u0941) \u2014 Healthcare Beyond Boundaries. Lightweight rural telemedicine platform.\n\nTech Stack: TypeScript\nRepository: https://github.com/hrlpavan/aarogyasetu",
+    "url": "https://github.com/hrlpavan/aarogyasetu",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "aether-engine",
+    "title": "Aether Engine",
+    "description": "Aether Engine is an ultra-low latency inference and state machine built for demanding real-time agentic and simulation workloads. It bridges native C++ performance with high-level Python bindings for distributed AI routing.\n\nKey Highlights:\n\u2022 Sub-millisecond low-latency inference dispatch pipeline\n\u2022 C++20 SIMD-accelerated vector similarity routing\n\u2022 Shared-memory zero-copy IPC ring buffers\n\u2022 Deterministic distributed state synchronization\n\nTech Stack: C++20, Python 3.12, CMake, SIMD (AVX-512), POSIX IPC, ZeroMQ\nRepository: https://github.com/hrlpavan/aether-engine",
+    "url": "https://github.com/hrlpavan/aether-engine",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  },
+  {
+    "repo_name": "hrl-lang",
+    "title": "HRL Programming Language",
+    "description": "HRL is a specialized domain-specific language designed to elevate LLM orchestration from unstructured prompting to deterministic, verifiable programming logic with hierarchical reasoning trees.\n\nKey Highlights:\n\u2022 Custom Lexer, Parser, and AST compiler tailored for prompt semantics\n\u2022 Deterministic constraint validation for agentic reasoning loops\n\u2022 Native primitives for inter-agent communication and task delegation\n\u2022 Seamless execution integration with Google Antigravity framework\n\nTech Stack: Python 3.12, PLY / Lex-Yacc, AST, LLM APIs, Antigravity SDK\nRepository: https://github.com/hrlpavan/hrl-lang",
+    "url": "https://github.com/hrlpavan/hrl-lang",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "HRL-X-Antigravity-Goal-State-Mode",
+    "title": "HRL X Antigravity Goal State Engine (Feudal HRL v2.1)",
+    "description": "Formalizes long-horizon autonomous task execution in Google Antigravity using Feudal Hierarchical Reinforcement Learning principles, preventing premature task exits and infinite retry loops.\n\nKey Highlights:\n\u2022 Feudal Meta-Controller (pi_high) and Worker Subagent (pi_low) temporal abstraction\n\u2022 Context compression (Delta s) eliminating main-thread log pollution\n\u2022 Bounded credit assignment with 3-attempt retry budget and automatic git rollback\n\u2022 Four deterministic verification oracles (Build, Tests, Lint, Git State) with dual-signal OS notifications\n\nTech Stack: Feudal HRL, Google Antigravity SDK, Python 3.12, Bash, Deterministic Oracles\nRepository: https://github.com/hrlpavan/HRL-X-Antigravity-Goal-State-Mode",
+    "url": "https://github.com/hrlpavan/HRL-X-Antigravity-Goal-State-Mode",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "TensorRT-Model-Connect",
+    "title": "NVIDIA TensorRT Model Connect (HRL Optimization Fork)",
+    "description": "An optimized fork of NVIDIA's TensorRT-Model-Connect enabling rapid compilation and hardware-accelerated deployment of transformer models on RTX GPUs.\n\nKey Highlights:\n\u2022 Streamlined ONNX export and TensorRT engine compilation for Hugging Face transformers\n\u2022 FP16 and INT8 calibration workflows for high-throughput GPU inference\n\u2022 Resolved broken relative documentation links and contributor onboarding guides\n\u2022 Integrated with HRL LocalAI CUDA runtime benchmarking suites\n\nTech Stack: NVIDIA TensorRT, CUDA, Python, ONNX, Hugging Face\nRepository: https://github.com/hrlpavan/TensorRT-Model-Connect",
+    "url": "https://github.com/hrlpavan/TensorRT-Model-Connect",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-v12-engine",
+    "title": "HRL V12 Engine 3D Simulation",
+    "description": "An astonishing browser-based digital twin of a Formula 1-grade V12 racing engine. Features accurate four-stroke Otto cycle thermodynamics, real-time procedural audio synthesis, and telemetry telemetry.\n\nKey Highlights:\n\u2022 Kinematically accurate 60\u00b0 Quad-Cam 48-Valve V12 mechanical simulation\n\u2022 Procedural Web Audio engine acoustics simulating exhaust pulses and harmonics\n\u2022 Real-time PV diagram, thermal stress, and RPM telemetry HUD\n\u2022 Cross-language computational cores implemented in C, Rust, Zig, Go, and JS\n\nTech Stack: WebGL, Three.js, Web Audio API, Rust (Wasm), Zig, C\nRepository: https://github.com/hrlpavan/hrl-v12-engine",
+    "url": "https://github.com/hrlpavan/hrl-v12-engine",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-x-rolls-royce",
+    "title": "HRL x Rolls-Royce V12 Digital Twin",
+    "description": "A precision luxury automotive engineering twin combining physical CAD kinematics with Ganesan thermodynamic cycle calculations to model Rolls-Royce's legendary 6.75L V12 powertrain.\n\nKey Highlights:\n\u2022 High-precision 6\u00be-litre twin-turbocharged V12 CAD visualizer\n\u2022 Ganesan internal combustion thermodynamic cycle modeling\n\u2022 P-V and T-S state calculations with boost pressure regulation\n\u2022 Luxury cabin acoustic isolation simulation\n\nTech Stack: Three.js, WebAudio, Thermodynamics Solver, JavaScript, GLSL Shaders\nRepository: https://github.com/hrlpavan/hrl-x-rolls-royce",
+    "url": "https://github.com/hrlpavan/hrl-x-rolls-royce",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "gitlab-sentinel",
+    "title": "Gitlab Sentinel",
+    "description": "GitLab Sentinel: 24/7 Multi-Agent Post-Code CI/CD & Autonomous Backend Healer for GitLab Life After Code Hackathon\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/gitlab-sentinel",
+    "url": "https://github.com/hrlpavan/gitlab-sentinel",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "multi-agent-cicd-24x7",
+    "title": "Multi Agent Cicd 24X7",
+    "description": "24/7 Multi-Agent CI/CD & Backend Debugging Architecture (Gemini 3.8 Flash + Claude Opus 4.8)\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/multi-agent-cicd-24x7",
+    "url": "https://github.com/hrlpavan/multi-agent-cicd-24x7",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "gitlab-prometheus-grafana",
+    "title": "Gitlab Prometheus Grafana",
+    "description": "Zero-dependency GitLab Issues & Main-Branch Source Code Quality Prometheus Exporter and Grafana Observability Stack\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/gitlab-prometheus-grafana",
+    "url": "https://github.com/hrlpavan/gitlab-prometheus-grafana",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "industrial-laser-measure",
+    "title": "Sub-Pixel Industrial Laser Distance & Planar Homography Measurement Engine",
+    "description": "Industrial laser line and point distance measurement engine with sub-pixel precision and calibrated planar homography\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/industrial-laser-measure",
+    "url": "https://github.com/hrlpavan/industrial-laser-measure",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-x-noise-cancellation",
+    "title": "HRL X Noise Cancellation DSP",
+    "description": "A real-time digital signal processing engine engineered to cancel ambient acoustic disturbances while preserving vocal timbre through adaptive filtering and deep spectral subtraction.\n\nKey Highlights:\n\u2022 Dual-microphone adaptive LMS (Least Mean Squares) filter pipeline\n\u2022 Spectral subtraction with dynamic noise floor estimation\n\u2022 Real-time low-latency audio stream processing (<15ms)\n\u2022 Native Swift and Web Audio implementations\n\nTech Stack: Web Audio DSP, Python (NumPy / SciPy), Swift (Accelerate), WebRTC\nRepository: https://github.com/hrlpavan/hrl-x-noise-cancellation",
+    "url": "https://github.com/hrlpavan/hrl-x-noise-cancellation",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "nirman-drishti",
+    "title": "Nirman-Drishti \u2014 Autonomous Infrastructure Forensic Auditor",
+    "description": "An AI-powered public infrastructure auditing platform designed to eliminate fiscal leakage by cross-verifying physical construction progress with satellite and field imagery.\n\nKey Highlights:\n\u2022 Multimodal forensic auditing of public construction and infrastructure deliverables\n\u2022 Automated structural progress verification and anomaly detection against tender specs\n\u2022 Geospatial coordinate validation and tamper-evident audit report generation\n\u2022 Comprehensive hackathon pitch deck, architecture pipeline, and verification suite\n\nTech Stack: Python, Computer Vision, FastAPI, React / TypeScript, Geospatial Analytics\nRepository: https://github.com/hrlpavan/nirman-drishti",
+    "url": "https://github.com/hrlpavan/nirman-drishti",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "omnitransform-ai-resources",
+    "title": "OmniTransform AI",
+    "description": "A flagship hackathon package uniting deep learning architectures, automated ETL pipelines, and high-impact UI for solving complex national-scale media and data processing challenges.\n\nKey Highlights:\n\u2022 Official Smart India Hackathon (SIH 2026) solution repository\n\u2022 Multi-modal generative transformation pipeline\n\u2022 Production-ready deployment recipes with automated preprocessing\n\u2022 Comprehensive presentation decks, architectural diagrams, and benchmarks\n\nTech Stack: TypeScript, Next.js, FastAPI, PyTorch, TailwindCSS\nRepository: https://github.com/hrlpavan/omnitransform-ai-resources",
+    "url": "https://github.com/hrlpavan/omnitransform-ai-resources",
+    "created_at": "2026-08",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "google-earth-mcp",
+    "title": "Google Earth 3D Model Context Protocol (MCP) Server",
+    "description": "A lightweight geospatial MCP server empowering AI agents in Google Antigravity to control 3D satellite camera views, build KML orbital/surveillance tours, and resolve global coordinates.\n\nKey Highlights:\n\u2022 Pure standard-library JSON-RPC 2.0 stdio MCP server with sub-5ms cold startup\n\u2022 Generates 3D Google Earth Web fly-to camera links with exact tilt, heading, and altitude\n\u2022 Synthesizes OpenGIS KML 2.2 tours (gx:Tour, gx:FlyTo) with 3D radar envelopes and flight paths\n\u2022 Bi-directional Decimal Degrees (DD) and Degrees Minutes Seconds (DMS) coordinate converter\n\nTech Stack: Python 3.12, Model Context Protocol (MCP), OpenGIS KML 2.2, Geospatial Math\nRepository: https://github.com/hrlpavan/google-earth-mcp",
+    "url": "https://github.com/hrlpavan/google-earth-mcp",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-X-UiPath",
+    "title": "HRL X UiPath \u2014 Enterprise RPA & Agentic Automation Suite",
+    "description": "An enterprise Robotic Process Automation repository containing modular UiPath Studio workflows for unattended file system governance and desktop UI automation.\n\nKey Highlights:\n\u2022 AutoFileOrganizer workflow classifying and routing workspace files by MIME and extension rules\n\u2022 SmartNotepadGreeter UI automation workflow with dynamic selector resilience\n\u2022 Strict project.json schema management and cross-platform Windows 11 execution\n\u2022 Integrated audit logging and exception recovery handlers\n\nTech Stack: UiPath Studio 2026, XAML Workflows, C# .NET, Windows UI Automation\nRepository: https://github.com/hrlpavan/HRL-X-UiPath",
+    "url": "https://github.com/hrlpavan/HRL-X-UiPath",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  }
+]

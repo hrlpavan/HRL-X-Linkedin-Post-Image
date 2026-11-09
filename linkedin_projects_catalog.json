@@ -1,0 +1,514 @@
+[
+  {
+    "repo_name": "HRL-X-Linkedin-Post-Image",
+    "title": "HRL x LinkedIn Post Image System & Official REST API MCP Server",
+    "description": "HRL International Private Limited \u2014 Official Apple-Grade Light-Theme LinkedIn Post Image Generator (GitLab Orange & HRL Rose) + LinkedIn REST API MCP Server\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/HRL-X-Linkedin-Post-Image",
+    "url": "https://github.com/hrlpavan/HRL-X-Linkedin-Post-Image",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "HRL-Global-Unicorn-Limited",
+    "title": "HRL Global Unicorn Limited \u2014 Sovereign Enterprise Architecture",
+    "description": "Official Corporate Repository & Ecosystem of HRL Global Unicorn Limited, founded by Pavan Kumar Sadashiv (hrlpavan)\n\nTech Stack: HTML\nRepository: https://github.com/hrlpavan/HRL-Global-Unicorn-Limited",
+    "url": "https://github.com/hrlpavan/HRL-Global-Unicorn-Limited",
+    "created_at": "2026-10",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "hrl-international-website-",
+    "title": "HRL International Enterprise Portal",
+    "description": "The flagship web portal representing HRL International Pvt. Ltd., presenting the company's multi-disciplinary engineering capabilities, enterprise ventures, and AI roadmap.\n\nKey Highlights:\n\u2022 Corporate overview detailing technology divisions, AI research, and studio operations\n\u2022 Interactive leadership and company manifesto showcases\n\u2022 SEO-optimized and accessibility-compliant front-end architecture\n\u2022 Secure contact and business inquiry dispatch service\n\nTech Stack: HTML5, Vanilla JavaScript, Modern CSS, Python\nRepository: https://github.com/hrlpavan/hrl-international-website-",
+    "url": "https://github.com/hrlpavan/hrl-international-website-",
+    "created_at": "2026-08",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "oppo-a1k-optimization",
+    "title": "Android Embedded Kernel & Low-Memory Optimization Suite (OPPO A1K)",
+    "description": "Engineered by Pavan Kumar Sadashiv at HRL International Private Limited (Shell).\n\nTech Stack: Shell\nRepository: https://github.com/hrlpavan/oppo-a1k-optimization",
+    "url": "https://github.com/hrlpavan/oppo-a1k-optimization",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "robin",
+    "title": "Robin \u2014 Autonomous AI Dark Web OSINT & Threat Intelligence Engine",
+    "description": "AI-Powered Dark Web OSINT Tool\nRepository: https://github.com/hrlpavan/robin",
+    "url": "https://github.com/hrlpavan/robin",
+    "created_at": "2026-11",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "aarogyasetu",
+    "title": "AAROGYASETU \u2014 2G Low-Bandwidth Rural Telemedicine Platform",
+    "description": "AAROGYASETU (\u0906\u0930\u094b\u0917\u094d\u092f\u0938\u0947\u0924\u0941) \u2014 Healthcare Beyond Boundaries. Lightweight rural telemedicine platform.\n\nTech Stack: TypeScript\nRepository: https://github.com/hrlpavan/aarogyasetu",
+    "url": "https://github.com/hrlpavan/aarogyasetu",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "ai-cinematic-haze-ofx",
+    "title": "AI Cinematic Haze \u2014 OpenFX & Fusion Plugin for DaVinci Resolve",
+    "description": "A studio-grade volumetric depth haze and optical halation plugin for DaVinci Resolve, executing locally on Apple Silicon and NVIDIA RTX GPUs with zero cloud latency.\n\nKey Highlights:\n\u2022 Physically based Beer-Lambert atmospheric scattering and lens-centric depth estimation\n\u2022 Hardware-accelerated Apple Metal (MSL) and NVIDIA CUDA kernels for real-time 4K60 playback\n\u2022 ACEScc and DaVinci Wide Gamut color-space preserving optical halation\n\u2022 Includes both native C++ OpenFX bundle and cross-platform Fusion .fuse shader\n\nTech Stack: C++20, OpenFX API, Apple Metal, NVIDIA CUDA, DaVinci Resolve Fusion\nRepository: https://github.com/hrlpavan/ai-cinematic-haze-ofx",
+    "url": "https://github.com/hrlpavan/ai-cinematic-haze-ofx",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "daily-project-updates",
+    "title": "Daily Project Updates & Automated Engineering Telemetry Log",
+    "description": "The automated engineering journal and telemetry aggregator that scans all local and remote HRL repositories to publish verifiable daily commit logs and milestone reports.\n\nKey Highlights:\n\u2022 Automated workspace git commit scanner and daily markdown log generator (sync_daily_updates.py)\n\u2022 Zero-click quick-update CLI updating root README index table and daily engineering spotlight\n\u2022 Includes The Agentic Engineering Manifesto on 100x self-healing workflows\n\u2022 Machine-readable projects_registry.json indexing the entire HRL software ecosystem\n\nTech Stack: Python 3.12, Git CLI, JSON Schema, Markdown Automation, Bash\nRepository: https://github.com/hrlpavan/daily-project-updates",
+    "url": "https://github.com/hrlpavan/daily-project-updates",
+    "created_at": "2026-09",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "skills-integrate-mcp-with-copilot",
+    "title": "Model Context Protocol (MCP) x GitHub Copilot Agentic Integration",
+    "description": "Exercise: Integrate Model Context Protocol with GitHub Copilot\n\nTech Stack: JavaScript\nRepository: https://github.com/hrlpavan/skills-integrate-mcp-with-copilot",
+    "url": "https://github.com/hrlpavan/skills-integrate-mcp-with-copilot",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "cadence-remote-mcp",
+    "title": "Cadence Allegro X Remote MCP \u2014 Distributed macOS-to-Windows EDA Engine",
+    "description": "\u26a1 Prompt on a MacBook Air, Execute on Windows: Distributed Remote MCP Infrastructure for Cadence Allegro X & Heavy EDA Workloads\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/cadence-remote-mcp",
+    "url": "https://github.com/hrlpavan/cadence-remote-mcp",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "HRL-Company-Page-Announcement-Design",
+    "title": "HRL Company Page Announcement Design System",
+    "description": "A standardized corporate design system and UI component library powering executive product announcements and press releases across HRL International web properties.\n\nKey Highlights:\n\u2022 Apple HIG-inspired dark-mode card nomenclature and glassmorphic visual hierarchy\n\u2022 Reusable announcement banner templates for flagship product launches\n\u2022 Responsive grid typography and high-contrast badge specifications\n\u2022 Integrated preview components for corporate web portals\n\nTech Stack: HTML5, CSS3, JavaScript, Design Systems, UI/UX Architecture\nRepository: https://github.com/hrlpavan/HRL-Company-Page-Announcement-Design",
+    "url": "https://github.com/hrlpavan/HRL-Company-Page-Announcement-Design",
+    "created_at": "2026-09",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "HRL-Self-Assigning-Core-Inner-Roles",
+    "title": "HRL Autonomous Role Assignment & Multi-Agent Governance Engine",
+    "description": "Engineered by Pavan Kumar Sadashiv at HRL International Private Limited (Python).\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/HRL-Self-Assigning-Core-Inner-Roles",
+    "url": "https://github.com/hrlpavan/HRL-Self-Assigning-Core-Inner-Roles",
+    "created_at": "2026-11",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "kicad-antigravity-project",
+    "title": "KiCad-MCP-Bridge \u2014 Distributed AI PCB Design & DRC Verification Engine",
+    "description": "Autonomous KiCad MCP + Google Antigravity PCB Design System (macOS + Windows Thunderbolt Bridge & Wi-Fi)\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/kicad-antigravity-project",
+    "url": "https://github.com/hrlpavan/kicad-antigravity-project",
+    "created_at": "2026-10",
+    "updated_at": "2026-11"
+  },
+  {
+    "repo_name": "industrial-laser-measure",
+    "title": "Sub-Pixel Industrial Laser Distance & Planar Homography Measurement Engine",
+    "description": "Industrial laser line and point distance measurement engine with sub-pixel precision and calibrated planar homography\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/industrial-laser-measure",
+    "url": "https://github.com/hrlpavan/industrial-laser-measure",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-X-UiPath",
+    "title": "HRL X UiPath \u2014 Enterprise RPA & Agentic Automation Suite",
+    "description": "An enterprise Robotic Process Automation repository containing modular UiPath Studio workflows for unattended file system governance and desktop UI automation.\n\nKey Highlights:\n\u2022 AutoFileOrganizer workflow classifying and routing workspace files by MIME and extension rules\n\u2022 SmartNotepadGreeter UI automation workflow with dynamic selector resilience\n\u2022 Strict project.json schema management and cross-platform Windows 11 execution\n\u2022 Integrated audit logging and exception recovery handlers\n\nTech Stack: UiPath Studio 2026, XAML Workflows, C# .NET, Windows UI Automation\nRepository: https://github.com/hrlpavan/HRL-X-UiPath",
+    "url": "https://github.com/hrlpavan/HRL-X-UiPath",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-corporate-flag",
+    "title": "HRL International Official Corporate Flag",
+    "description": "The official sovereign corporate flag and heraldic vector identity system engineered for HRL International Private Limited with Nordic Cross geometry, quad-stripe canton, official brand insignia, dual heraldic eagles, and 8-pointed compass star.\n\nKey Highlights:\n\u2022 Nordic Cross geometry with 83px modular grid system and golden 3:2 proportion\n\u2022 Official HRL brand insignia integrated seamlessly across the horizontal cross bar\n\u2022 Bilateral dual heraldic double-headed eagles flanking an 8-pointed crimson compass star\n\u2022 Dynamic background recoloring via CSS custom variables (--field-color, --bg-color)\n\nTech Stack: Scalable Vector Graphics (SVG), 83px Modular Grid System, HTML5 / CSS3, Python 3\nRepository: https://github.com/hrlpavan/hrl-corporate-flag",
+    "url": "https://github.com/hrlpavan/hrl-corporate-flag",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "all-projects-portfolio",
+    "title": "All Projects Portfolio",
+    "description": "Master Projects Portfolio\n\nTech Stack: HTML\nRepository: https://github.com/hrlpavan/all-projects-portfolio",
+    "url": "https://github.com/hrlpavan/all-projects-portfolio",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-X-Brag",
+    "title": "HRL X Brag \u2014 Autonomous Launch Video & Campaign Synthesizer",
+    "description": "An autonomous video synthesis engine that transforms software repositories into polished, broadcast-ready 1080p launch commercials with neural voiceovers and procedural motion graphics.\n\nKey Highlights:\n\u2022 Programmatic 1920x1080 motion graphics renderer with cubic-bezier and back-out easing curves\n\u2022 Automated multi-segment neural voiceover synthesis and frame-accurate audio-visual mastering\n\u2022 Procedural ambient soundscape mixing and dynamic HUD telemetry overlays\n\u2022 Turnkey codebase-to-launch-video pipeline for rapid product showcases\n\nTech Stack: Python 3.12, Pillow (PIL), FFmpeg, ElevenLabs Neural TTS, Wave DSP\nRepository: https://github.com/hrlpavan/HRL-X-Brag",
+    "url": "https://github.com/hrlpavan/HRL-X-Brag",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-X-MacOS-27-V2.0",
+    "title": "HRL X Macos 27 V2.0",
+    "description": "HRL X macOS 27 V2.0 \u2014 Apple Design System & Liquid Canvas\n\nTech Stack: HTML\nRepository: https://github.com/hrlpavan/HRL-X-MacOS-27-V2.0",
+    "url": "https://github.com/hrlpavan/HRL-X-MacOS-27-V2.0",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-GODs-Command-Line-For-Antigravity",
+    "title": "HRL GOD's Command Line For Antigravity",
+    "description": "A supercharged command-line operations suite equipping Google Antigravity workspaces with automated extension management, system telemetry, and autonomous agent workflows.\n\nKey Highlights:\n\u2022 Unified CLI harness integrating Roo Code, Ralph Loop, CodeRabbit, and GSD frameworks\n\u2022 Automated MCP server provisioning and health verification for Antigravity IDE\n\u2022 macOS thermal, memory pressure, and external disk I/O telemetry commands\n\u2022 One-line workspace bootstrapping and multi-agent task dispatch\n\nTech Stack: Python 3, Zsh / Bash, Google Antigravity CLI, MCP Protocol, macOS sysctl\nRepository: https://github.com/hrlpavan/HRL-GODs-Command-Line-For-Antigravity",
+    "url": "https://github.com/hrlpavan/HRL-GODs-Command-Line-For-Antigravity",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-legal-ip-dmca-policy",
+    "title": "HRL International \u2014 IP, Trademark, Copyright & DMCA Charter",
+    "description": "The public statutory repository defining intellectual property rights, trademark usage guidelines, software licensing terms, and DMCA enforcement procedures for HRL International.\n\nKey Highlights:\n\u2022 Comprehensive trademark protection guidelines across NICE Classes 9, 38, 41, and 42\n\u2022 Statutory DMCA Takedown Notice and Counter-Notice protocol (17 U.S.C. 512)\n\u2022 Software licensing doctrine safeguarding proprietary C++, Metal, and CUDA shader IP\n\u2022 Interactive Apple HIG-styled legal web portal and printable vector PDF charters\n\nTech Stack: Legal Architecture, HTML5 / CSS3, Markdown, DMCA / IP Compliance\nRepository: https://github.com/hrlpavan/hrl-legal-ip-dmca-policy",
+    "url": "https://github.com/hrlpavan/hrl-legal-ip-dmca-policy",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "pavan-kumar-sadashiv-avatar-patent",
+    "title": "Pavan Kumar Sadashiv Avatar Patent",
+    "description": "Official Commercial Profile Picture Patent, Industrial Design, Trade Dress, Trademark, Copyright & Cryptographic Signature Charter of Pavan Kumar Sadashiv (HRL-IP-PAT-AVATAR-2026-PKS-001)\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/pavan-kumar-sadashiv-avatar-patent",
+    "url": "https://github.com/hrlpavan/pavan-kumar-sadashiv-avatar-patent",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "gitlab-prometheus-grafana",
+    "title": "Gitlab Prometheus Grafana",
+    "description": "Zero-dependency GitLab Issues & Main-Branch Source Code Quality Prometheus Exporter and Grafana Observability Stack\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/gitlab-prometheus-grafana",
+    "url": "https://github.com/hrlpavan/gitlab-prometheus-grafana",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "gitlab-duo-argon-guide",
+    "title": "Gitlab Duo Argon Guide",
+    "description": "How to Get and Use Gemini 4 Argon with GitLab Duo\nRepository: https://github.com/hrlpavan/gitlab-duo-argon-guide",
+    "url": "https://github.com/hrlpavan/gitlab-duo-argon-guide",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "ethical-security-research-kit",
+    "title": "Ethical Security Research Kit",
+    "description": "Production-ready 10-stage starter kit for ethical security researchers and developers: safe harbor configs, OWASP access control matrices, and report templates.\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/ethical-security-research-kit",
+    "url": "https://github.com/hrlpavan/ethical-security-research-kit",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-hyper-os",
+    "title": "HRL Hyper Os",
+    "description": "HRL Hyper OS \u2014 Hybrid Linux + macOS UX + Feudal Hierarchical Reinforcement Learning OS Daemon\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/hrl-hyper-os",
+    "url": "https://github.com/hrlpavan/hrl-hyper-os",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "gitlab-hackathon-playbook",
+    "title": "Gitlab Hackathon Playbook",
+    "description": "The Definitive GitLab Hackathon Playbook: Real-world field guide, workflow blueprints, CI/CD bypasses, and lessons learned from the trenches.\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/gitlab-hackathon-playbook",
+    "url": "https://github.com/hrlpavan/gitlab-hackathon-playbook",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "ethical-hacking-playbook",
+    "title": "Ethical Hacking Playbook",
+    "description": "Comprehensive Ethical Hacking & Bug Bounty Playbook based on Intigriti Terms, Code of Conduct, Safe Harbor, and Legal Standards.\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/ethical-hacking-playbook",
+    "url": "https://github.com/hrlpavan/ethical-hacking-playbook",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "gitlab-bug-bounty-playbook",
+    "title": "Gitlab Bug Bounty Playbook",
+    "description": "Complete step-by-step strategy, setup, and methodology for hunting and getting paid on GitLab's HackerOne Bug Bounty Program.\nRepository: https://github.com/hrlpavan/gitlab-bug-bounty-playbook",
+    "url": "https://github.com/hrlpavan/gitlab-bug-bounty-playbook",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "gitlab-sentinel",
+    "title": "Gitlab Sentinel",
+    "description": "GitLab Sentinel: 24/7 Multi-Agent Post-Code CI/CD & Autonomous Backend Healer for GitLab Life After Code Hackathon\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/gitlab-sentinel",
+    "url": "https://github.com/hrlpavan/gitlab-sentinel",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-x-gitlab-hackathon",
+    "title": "HRL X Gitlab Hackathon",
+    "description": "HRL X GitLab Hackathon \u2014 Autonomous Engineering & High-Velocity Merge Request Command Center\nRepository: https://github.com/hrlpavan/hrl-x-gitlab-hackathon",
+    "url": "https://github.com/hrlpavan/hrl-x-gitlab-hackathon",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "multi-agent-cicd-24x7",
+    "title": "Multi Agent Cicd 24X7",
+    "description": "24/7 Multi-Agent CI/CD & Backend Debugging Architecture (Gemini 3.8 Flash + Claude Opus 4.8)\n\nTech Stack: Python\nRepository: https://github.com/hrlpavan/multi-agent-cicd-24x7",
+    "url": "https://github.com/hrlpavan/multi-agent-cicd-24x7",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "gitlab-sync",
+    "title": "GitLab & GitHub Unified Dual-Sync Engine & Contributor Runbook",
+    "description": "The central cross-platform synchronization runbook and upstream GitLab contribution architecture powering simultaneous GitHub and GitLab repository mirroring and CI/CD verification.\n\nKey Highlights:\n\u2022 Single ED25519 SSH key & multi-remote push configuration syncing GitHub and GitLab simultaneously\n\u2022 Documents GitLab AI Gateway MR !7251 (Google Gemini 4 Argon model lifecycle integration)\n\u2022 Documents Omnibus GitLab MR !9851 (Docker Mattermost self-signed SSL CA bundle troubleshooting)\n\u2022 Documents GitLab Core MR !259119 (MCP Server search tool JSON schema enum validation)\n\nTech Stack: Git Internals, GitLab REST/GraphQL API, GitHub Actions, Ruby / RSpec, SSH ED25519\nRepository: https://github.com/hrlpavan/gitlab-sync",
+    "url": "https://github.com/hrlpavan/gitlab-sync",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "DataBricks",
+    "title": "Databricks Analytics & Big Data",
+    "description": "A practical cloud analytics repository documenting high-throughput data transformations, Delta Lake optimizations, and PySpark job patterns on the Databricks platform.\n\nKey Highlights:\n\u2022 Apache Spark distributed DataFrame transformations\n\u2022 Delta Lake ACID transaction tables and time travel queries\n\u2022 Databricks workspace and cluster provisioning scripts\n\u2022 Optimized data partitioning and caching configurations\n\nTech Stack: Databricks, Apache Spark, PySpark, Delta Lake, SQL\nRepository: https://github.com/hrlpavan/DataBricks",
+    "url": "https://github.com/hrlpavan/DataBricks",
+    "created_at": "2026-08",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-X-DaVinci-Resolve-21",
+    "title": "HRL X Davinci Resolve 21",
+    "description": "A complete post-production enhancement suite delivering professional Fusion macros, automated rendering routines, and timeline utilities for DaVinci Resolve 21 editors.\n\nKey Highlights:\n\u2022 Native Fusion macro libraries for motion graphics and transitions\n\u2022 Batch export and render queue automation\n\u2022 Automated project archival and media management tools\n\u2022 Optimized for Apple Silicon hardware acceleration\n\nTech Stack: DaVinci Resolve Studio, Lua, Fusion Macros, Python\nRepository: https://github.com/hrlpavan/HRL-X-DaVinci-Resolve-21",
+    "url": "https://github.com/hrlpavan/HRL-X-DaVinci-Resolve-21",
+    "created_at": "2026-08",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "TensorRT-Model-Connect",
+    "title": "NVIDIA TensorRT Model Connect (HRL Optimization Fork)",
+    "description": "An optimized fork of NVIDIA's TensorRT-Model-Connect enabling rapid compilation and hardware-accelerated deployment of transformer models on RTX GPUs.\n\nKey Highlights:\n\u2022 Streamlined ONNX export and TensorRT engine compilation for Hugging Face transformers\n\u2022 FP16 and INT8 calibration workflows for high-throughput GPU inference\n\u2022 Resolved broken relative documentation links and contributor onboarding guides\n\u2022 Integrated with HRL LocalAI CUDA runtime benchmarking suites\n\nTech Stack: NVIDIA TensorRT, CUDA, Python, ONNX, Hugging Face\nRepository: https://github.com/hrlpavan/TensorRT-Model-Connect",
+    "url": "https://github.com/hrlpavan/TensorRT-Model-Connect",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-sync-cli",
+    "title": "HRL Sync CLI Toolchain",
+    "description": "A lightweight, robust developer CLI built to synchronize, validate, and roll out changes across dozens of interconnected repositories in the HRL technology ecosystem.\n\nKey Highlights:\n\u2022 Multi-repository git synchronization and upstream tracking in one command\n\u2022 Automated version tagging and semantic release management\n\u2022 Environment configuration consistency checker across machines\n\u2022 Zero-external-dependency standard library implementation\n\nTech Stack: Python 3, Argparse, Subprocess Git Wrappers, Bash\nRepository: https://github.com/hrlpavan/hrl-sync-cli",
+    "url": "https://github.com/hrlpavan/hrl-sync-cli",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "hrl-v12-engine",
+    "title": "HRL V12 Engine 3D Simulation",
+    "description": "An astonishing browser-based digital twin of a Formula 1-grade V12 racing engine. Features accurate four-stroke Otto cycle thermodynamics, real-time procedural audio synthesis, and telemetry telemetry.\n\nKey Highlights:\n\u2022 Kinematically accurate 60\u00b0 Quad-Cam 48-Valve V12 mechanical simulation\n\u2022 Procedural Web Audio engine acoustics simulating exhaust pulses and harmonics\n\u2022 Real-time PV diagram, thermal stress, and RPM telemetry HUD\n\u2022 Cross-language computational cores implemented in C, Rust, Zig, Go, and JS\n\nTech Stack: WebGL, Three.js, Web Audio API, Rust (Wasm), Zig, C\nRepository: https://github.com/hrlpavan/hrl-v12-engine",
+    "url": "https://github.com/hrlpavan/hrl-v12-engine",
+    "created_at": "2026-09",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "kit-app-template",
+    "title": "NVIDIA Omniverse Kit USD Explorer Application Template",
+    "description": "An industrial 3D simulation foundation built on NVIDIA Omniverse Kit and OpenUSD for interactive CAD assembly inspection, scene playback, and real-time ray-traced visualization.\n\nKey Highlights:\n\u2022 Custom USD Explorer application template (usd_explorer_playback.toml) for industrial digital twins\n\u2022 Automated Omniverse extension setup and real-time RTX viewport configuration\n\u2022 Scene graph inspection and physically accurate material rendering workflows\n\u2022 Integrated with HRL V12 and Rolls-Royce CAD digital twin pipelines\n\nTech Stack: NVIDIA Omniverse Kit, OpenUSD, Python, RTX Ray Tracing, TOML\nRepository: https://github.com/hrlpavan/kit-app-template",
+    "url": "https://github.com/hrlpavan/kit-app-template",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "google-earth-mcp",
+    "title": "Google Earth 3D Model Context Protocol (MCP) Server",
+    "description": "A lightweight geospatial MCP server empowering AI agents in Google Antigravity to control 3D satellite camera views, build KML orbital/surveillance tours, and resolve global coordinates.\n\nKey Highlights:\n\u2022 Pure standard-library JSON-RPC 2.0 stdio MCP server with sub-5ms cold startup\n\u2022 Generates 3D Google Earth Web fly-to camera links with exact tilt, heading, and altitude\n\u2022 Synthesizes OpenGIS KML 2.2 tours (gx:Tour, gx:FlyTo) with 3D radar envelopes and flight paths\n\u2022 Bi-directional Decimal Degrees (DD) and Degrees Minutes Seconds (DMS) coordinate converter\n\nTech Stack: Python 3.12, Model Context Protocol (MCP), OpenGIS KML 2.2, Geospatial Math\nRepository: https://github.com/hrlpavan/google-earth-mcp",
+    "url": "https://github.com/hrlpavan/google-earth-mcp",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-X-MAC-BUG-FIX",
+    "title": "HRL X Mac Bug Fix & WebKit Recovery Suite",
+    "description": "A specialized macOS systems engineering and auto-remediation suite that diagnoses and resolves WebKit process pool hangs, Safari state corruption, and WindowServer bottlenecks on Apple Silicon workstations.\n\nKey Highlights:\n\u2022 Automated WebKit process pool starvation and runaway memory diagnostics\n\u2022 Non-destructive Safari state recovery, cache flush, and session restoration\n\u2022 WindowServer, Dock, and CoreAudio daemon health verification hooks\n\u2022 Zero-dependency POSIX shell and Python execution on Apple Silicon\n\nTech Stack: macOS Darwin, Bash / Zsh, Python 3, launchctl, WebKit Diagnostics\nRepository: https://github.com/hrlpavan/HRL-X-MAC-BUG-FIX",
+    "url": "https://github.com/hrlpavan/HRL-X-MAC-BUG-FIX",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "HRL-X-Antigravity-Goal-State-Mode",
+    "title": "HRL X Antigravity Goal State Engine (Feudal HRL v2.1)",
+    "description": "Formalizes long-horizon autonomous task execution in Google Antigravity using Feudal Hierarchical Reinforcement Learning principles, preventing premature task exits and infinite retry loops.\n\nKey Highlights:\n\u2022 Feudal Meta-Controller (pi_high) and Worker Subagent (pi_low) temporal abstraction\n\u2022 Context compression (Delta s) eliminating main-thread log pollution\n\u2022 Bounded credit assignment with 3-attempt retry budget and automatic git rollback\n\u2022 Four deterministic verification oracles (Build, Tests, Lint, Git State) with dual-signal OS notifications\n\nTech Stack: Feudal HRL, Google Antigravity SDK, Python 3.12, Bash, Deterministic Oracles\nRepository: https://github.com/hrlpavan/HRL-X-Antigravity-Goal-State-Mode",
+    "url": "https://github.com/hrlpavan/HRL-X-Antigravity-Goal-State-Mode",
+    "created_at": "2026-10",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "skills",
+    "title": "Google Antigravity Master Skills Catalog",
+    "description": "The definitive skills repository expanding Google Antigravity agents into autonomous multi-system operators capable of complex engineering, testing, and cloud infrastructure tasks.\n\nKey Highlights:\n\u2022 50+ production-tested agent skill specifications\n\u2022 Declarative schema definition and parameter validation hooks\n\u2022 Zero-dependency tool execution runners\n\u2022 Comprehensive taxonomy of developer, database, and devops skills\n\nTech Stack: JavaScript, JSON Schema, Antigravity SDK, Markdown\nRepository: https://github.com/hrlpavan/skills",
+    "url": "https://github.com/hrlpavan/skills",
+    "created_at": "2026-08",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "engineering-compensation-blueprint",
+    "title": "Engineering Compensation Blueprint",
+    "description": "A groundbreaking blueprint establishing transparent, value-driven hiring terms, career valuation metrics, and intellectual governance standards for top-tier engineering leadership.\n\nKey Highlights:\n\u2022 Detailed mathematical formula for 100x engineer productivity valuation\n\u2022 Comprehensive equity, IP carve-out, and governance requirements\n\u2022 Leadership terms for Chief Architect and CTO advisory roles\n\u2022 Executive web presentation with dynamic calculations\n\nTech Stack: HTML5, Modern CSS, Mathematical Valuation Models\nRepository: https://github.com/hrlpavan/engineering-compensation-blueprint",
+    "url": "https://github.com/hrlpavan/engineering-compensation-blueprint",
+    "created_at": "2026-08",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "sih-2026-media-problem-statements",
+    "title": "SIH 2026 Media Problem Statements",
+    "description": "A strategic and technical research repository providing problem statement breakdowns, competitive intelligence, and prototype architectures for SIH 2026 competitors.\n\nKey Highlights:\n\u2022 Deep architectural breakdown of Ministry and Industry statements\n\u2022 Feature-feasibility matrices and novelty scoring models\n\u2022 Curated open datasets and verification pipelines\n\u2022 Ready-to-deploy prototype foundations\n\nTech Stack: Python, Jupyter, Pandas, Markdown, HTML5\nRepository: https://github.com/hrlpavan/sih-2026-media-problem-statements",
+    "url": "https://github.com/hrlpavan/sih-2026-media-problem-statements",
+    "created_at": "2026-08",
+    "updated_at": "2026-10"
+  },
+  {
+    "repo_name": "nirman-drishti",
+    "title": "Nirman-Drishti \u2014 Autonomous Infrastructure Forensic Auditor",
+    "description": "An AI-powered public infrastructure auditing platform designed to eliminate fiscal leakage by cross-verifying physical construction progress with satellite and field imagery.\n\nKey Highlights:\n\u2022 Multimodal forensic auditing of public construction and infrastructure deliverables\n\u2022 Automated structural progress verification and anomaly detection against tender specs\n\u2022 Geospatial coordinate validation and tamper-evident audit report generation\n\u2022 Comprehensive hackathon pitch deck, architecture pipeline, and verification suite\n\nTech Stack: Python, Computer Vision, FastAPI, React / TypeScript, Geospatial Analytics\nRepository: https://github.com/hrlpavan/nirman-drishti",
+    "url": "https://github.com/hrlpavan/nirman-drishti",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "feature-matching-presentation",
+    "title": "Computer Vision Feature Matching & Homography Suite",
+    "description": "A visual and mathematical deep dive into local invariant feature matching in computer vision, pairing an interactive slide deck with runnable OpenCV homography pipelines.\n\nKey Highlights:\n\u2022 9-slide interactive web presentation explaining keypoint detection, descriptors, and homography\n\u2022 Clean reference Python OpenCV implementation of SIFT/ORB matching with Lowe's ratio test\n\u2022 RANSAC outlier rejection and geometric perspective transformation visualizers\n\u2022 Responsive keyboard/touch slide navigation with mathematical breakdowns\n\nTech Stack: OpenCV, Python 3, HTML5 / CSS3, JavaScript, Linear Algebra / RANSAC\nRepository: https://github.com/hrlpavan/feature-matching-presentation",
+    "url": "https://github.com/hrlpavan/feature-matching-presentation",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "HRL-X-FAQ",
+    "title": "HRL-X-FAQ \u2014 Executive NVIDIA & Google Engineering Dossier",
+    "description": "An executive technical dossier answering core architectural questions and demonstrating production benchmarks across GPU inference runtimes and autonomous agent frameworks.\n\nKey Highlights:\n\u2022 Deep-dive architectural benchmarks on 0.17 us Paged KV-Cache allocation in CUDA C++20\n\u2022 Static CUDA Graph kernel replay and FP8 TensorRT quantization performance proofs\n\u2022 Multi-agent orchestration case studies for Google Antigravity and HRL DSL\n\u2022 Executive FAQ mapping systems engineering deliverables to Principal/Staff roles\n\nTech Stack: CUDA C++20, TensorRT, Google Antigravity, Systems Architecture, Markdown\nRepository: https://github.com/hrlpavan/HRL-X-FAQ",
+    "url": "https://github.com/hrlpavan/HRL-X-FAQ",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "nvedia-project-by-hrl",
+    "title": "NVIDIA Accelerated Platform by HRL",
+    "description": "A dedicated high-performance computing showcase exploring cutting-edge CUDA optimization, memory hierarchy exploitation, and GPU acceleration for next-generation AI workloads.\n\nKey Highlights:\n\u2022 Custom CUDA kernels for matrix tiling and fused attention\n\u2022 TensorRT inference optimization and FP16/INT8 quantization benchmarks\n\u2022 Unified virtual memory memory-bound workload profiling\n\u2022 Interactive hardware capability and warp occupancy visualizer\n\nTech Stack: CUDA, C++20, TensorRT, CMake, Python, HTML5 HUD\nRepository: https://github.com/hrlpavan/nvedia-project-by-hrl",
+    "url": "https://github.com/hrlpavan/nvedia-project-by-hrl",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "omnitransform-ai-resources",
+    "title": "OmniTransform AI",
+    "description": "A flagship hackathon package uniting deep learning architectures, automated ETL pipelines, and high-impact UI for solving complex national-scale media and data processing challenges.\n\nKey Highlights:\n\u2022 Official Smart India Hackathon (SIH 2026) solution repository\n\u2022 Multi-modal generative transformation pipeline\n\u2022 Production-ready deployment recipes with automated preprocessing\n\u2022 Comprehensive presentation decks, architectural diagrams, and benchmarks\n\nTech Stack: TypeScript, Next.js, FastAPI, PyTorch, TailwindCSS\nRepository: https://github.com/hrlpavan/omnitransform-ai-resources",
+    "url": "https://github.com/hrlpavan/omnitransform-ai-resources",
+    "created_at": "2026-08",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM",
+    "title": "HRL X Mac X Windows VM Hybrid Execution Protocol",
+    "description": "A cross-platform virtualization and automation protocol enabling an LLM agent on macOS to seamlessly orchestrate Windows 11 RPA bots, hypervisor resources, and 4K media pipelines.\n\nKey Highlights:\n\u2022 Automated prlctl hypervisor orchestration between macOS host and Windows 11 ARM64 VM\n\u2022 Cross-OS command dispatch executing Windows UiPath RPA workflows from macOS terminal\n\u2022 High-bandwidth external SSD media routing for 4K60 DaVinci Resolve Studio timelines\n\u2022 Bounded memory allocation guards preventing host swap thrashing during dual-OS workloads\n\nTech Stack: Parallels prlctl, macOS Zsh, Windows PowerShell, UiPath RPA, DaVinci Resolve API\nRepository: https://github.com/hrlpavan/HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM",
+    "url": "https://github.com/hrlpavan/HRL-X-MAC-X-Windows-VM-Protocol-Supercharged-By-LLM",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "media-offline-bug-fix-by-hrl",
+    "title": "DaVinci Resolve Media Offline Bug Fix Toolkit",
+    "description": "A rapid diagnostic and repair utility that eliminates 'Media Offline' frame drops in DaVinci Resolve by repairing corrupted render caches and relinking external storage paths.\n\nKey Highlights:\n\u2022 Automated CacheClip and RenderCache corruption scanner for DaVinci Resolve projects\n\u2022 External volume mount-point verification and symlink relinking utility\n\u2022 H.264/HEVC VideoToolbox hardware decoder reset scripts for macOS\n\u2022 Safe non-destructive backup of Resolve project database before cache purge\n\nTech Stack: Python 3, Bash, DaVinci Resolve Studio, macOS CoreMedia\nRepository: https://github.com/hrlpavan/media-offline-bug-fix-by-hrl",
+    "url": "https://github.com/hrlpavan/media-offline-bug-fix-by-hrl",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "hrl-x-noise-cancellation",
+    "title": "HRL X Noise Cancellation DSP",
+    "description": "A real-time digital signal processing engine engineered to cancel ambient acoustic disturbances while preserving vocal timbre through adaptive filtering and deep spectral subtraction.\n\nKey Highlights:\n\u2022 Dual-microphone adaptive LMS (Least Mean Squares) filter pipeline\n\u2022 Spectral subtraction with dynamic noise floor estimation\n\u2022 Real-time low-latency audio stream processing (<15ms)\n\u2022 Native Swift and Web Audio implementations\n\nTech Stack: Web Audio DSP, Python (NumPy / SciPy), Swift (Accelerate), WebRTC\nRepository: https://github.com/hrlpavan/hrl-x-noise-cancellation",
+    "url": "https://github.com/hrlpavan/hrl-x-noise-cancellation",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "hrl-x-rolls-royce",
+    "title": "HRL x Rolls-Royce V12 Digital Twin",
+    "description": "A precision luxury automotive engineering twin combining physical CAD kinematics with Ganesan thermodynamic cycle calculations to model Rolls-Royce's legendary 6.75L V12 powertrain.\n\nKey Highlights:\n\u2022 High-precision 6\u00be-litre twin-turbocharged V12 CAD visualizer\n\u2022 Ganesan internal combustion thermodynamic cycle modeling\n\u2022 P-V and T-S state calculations with boost pressure regulation\n\u2022 Luxury cabin acoustic isolation simulation\n\nTech Stack: Three.js, WebAudio, Thermodynamics Solver, JavaScript, GLSL Shaders\nRepository: https://github.com/hrlpavan/hrl-x-rolls-royce",
+    "url": "https://github.com/hrlpavan/hrl-x-rolls-royce",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "hrl-x-rohan-corporation",
+    "title": "HRL x Rohan Corporation PropTech",
+    "description": "A state-of-the-art commercial PropTech web platform bridging high-end real estate development with interactive digital architecture and client engagement tools.\n\nKey Highlights:\n\u2022 Interactive luxury real estate portfolio with 3D floor plan integration\n\u2022 Algorithmic mortgage, EMI, and investment ROI calculators\n\u2022 Dynamic lead qualification and booking management flow\n\u2022 Enterprise-grade responsive design with luxury architectural aesthetic\n\nTech Stack: HTML5, CSS3 / Modern Typography, JavaScript ES6+, Python\nRepository: https://github.com/hrlpavan/hrl-x-rohan-corporation",
+    "url": "https://github.com/hrlpavan/hrl-x-rohan-corporation",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "hrl-project-extreme",
+    "title": "HRL Project Extreme",
+    "description": "An enterprise-grade reinforcement learning framework tackling sparse-reward, long-horizon control problems through temporal abstraction and hierarchical policy decomposition.\n\nKey Highlights:\n\u2022 Multi-tier policy hierarchy (Manager / Worker paradigm)\n\u2022 Temporal abstraction allowing 10,000+ step horizon planning\n\u2022 Goal-conditioned value functions with intrinsic curiosity rewards\n\u2022 Interactive visualization of agent trajectory distributions\n\nTech Stack: Python, PyTorch, Gymnasium, Three.js, WebSockets\nRepository: https://github.com/hrlpavan/hrl-project-extreme",
+    "url": "https://github.com/hrlpavan/hrl-project-extreme",
+    "created_at": "2026-08",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "hrl-lang",
+    "title": "HRL Programming Language",
+    "description": "HRL is a specialized domain-specific language designed to elevate LLM orchestration from unstructured prompting to deterministic, verifiable programming logic with hierarchical reasoning trees.\n\nKey Highlights:\n\u2022 Custom Lexer, Parser, and AST compiler tailored for prompt semantics\n\u2022 Deterministic constraint validation for agentic reasoning loops\n\u2022 Native primitives for inter-agent communication and task delegation\n\u2022 Seamless execution integration with Google Antigravity framework\n\nTech Stack: Python 3.12, PLY / Lex-Yacc, AST, LLM APIs, Antigravity SDK\nRepository: https://github.com/hrlpavan/hrl-lang",
+    "url": "https://github.com/hrlpavan/hrl-lang",
+    "created_at": "2026-09",
+    "updated_at": "2026-09"
+  },
+  {
+    "repo_name": "aether-engine",
+    "title": "Aether Engine",
+    "description": "Aether Engine is an ultra-low latency inference and state machine built for demanding real-time agentic and simulation workloads. It bridges native C++ performance with high-level Python bindings for distributed AI routing.\n\nKey Highlights:\n\u2022 Sub-millisecond low-latency inference dispatch pipeline\n\u2022 C++20 SIMD-accelerated vector similarity routing\n\u2022 Shared-memory zero-copy IPC ring buffers\n\u2022 Deterministic distributed state synchronization\n\nTech Stack: C++20, Python 3.12, CMake, SIMD (AVX-512), POSIX IPC, ZeroMQ\nRepository: https://github.com/hrlpavan/aether-engine",
+    "url": "https://github.com/hrlpavan/aether-engine",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  },
+  {
+    "repo_name": "rule-breaking-v2-book",
+    "title": "RULE BREAKING (Version 2.0)",
+    "description": "An audacious and comprehensive technical manifesto detailing the paradigm shifts required to build world-class, AI-first technologies while dismantling bureaucratic inefficiencies.\n\nKey Highlights:\n\u2022 The 100x Engineer Manifesto: Moving beyond conventional software development\n\u2022 Architectural principles for autonomous AI-driven systems\n\u2022 Disruptive strategy for breaking obsolete enterprise software hierarchies\n\u2022 Interactive web-reader edition with chapter navigation and annotations\n\nTech Stack: HTML5, CSS Typography, Interactive UI\nRepository: https://github.com/hrlpavan/rule-breaking-v2-book",
+    "url": "https://github.com/hrlpavan/rule-breaking-v2-book",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  },
+  {
+    "repo_name": "HRL-s-Plugin-For-DaVinci-Resolve-21",
+    "title": "HRL's Official DaVinci Resolve Plugin",
+    "description": "The proprietary HRL production plugin delivering tailored visual presets, automated grading node trees, and dynamic motion transitions directly inside DaVinci Resolve 21.\n\nKey Highlights:\n\u2022 Seamless one-click installation into DaVinci Resolve Application Support\n\u2022 Preset grading nodes and color science transforms\n\u2022 Audio-reactive visual effect generators\n\u2022 Streamlined UI within Resolve's Workspace scripts\n\nTech Stack: Python 3, DaVinci Resolve Studio, Fusion API\nRepository: https://github.com/hrlpavan/HRL-s-Plugin-For-DaVinci-Resolve-21",
+    "url": "https://github.com/hrlpavan/HRL-s-Plugin-For-DaVinci-Resolve-21",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  },
+  {
+    "repo_name": "DSA",
+    "title": "Data Structures & Algorithms Repository",
+    "description": "An exhaustive reference library of fundamental and advanced data structures and algorithms, implemented with pristine code clarity, pointer safety, and asymptotic proofs.\n\nKey Highlights:\n\u2022 Comprehensive implementations of Trees (BST, AVL, Red-Black) and Graphs\n\u2022 Classic dynamic programming, backtracking, and greedy algorithms\n\u2022 Memory-efficient data structures with rigorous pointer management in C\n\u2022 Time and space complexity profiling benchmarks\n\nTech Stack: C, C++20, Python, Makefile, GDB\nRepository: https://github.com/hrlpavan/DSA",
+    "url": "https://github.com/hrlpavan/DSA",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  },
+  {
+    "repo_name": "IPA-AND-RPA-REPORT",
+    "title": "Intelligent Process Automation & RPA Report",
+    "description": "A rigorous technical research evaluation illuminating the convergence of artificial intelligence with robotic process automation to achieve end-to-end enterprise cognitive workflows.\n\nKey Highlights:\n\u2022 Comparative analysis of traditional rule-based RPA vs. cognitive IPA\n\u2022 Architectural patterns for human-in-the-loop exception handling\n\u2022 Cost-benefit metrics and ROI projection models for enterprise adoption\n\u2022 Security, governance, and bot credential management standards\n\nTech Stack: Technical Research, IPA Frameworks, UiPath / BluePrism Analysis\nRepository: https://github.com/hrlpavan/IPA-AND-RPA-REPORT",
+    "url": "https://github.com/hrlpavan/IPA-AND-RPA-REPORT",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  },
+  {
+    "repo_name": "AutoSubs-For-Resolve",
+    "title": "AutoSubs For DaVinci Resolve",
+    "description": "An essential workflow productivity tool for video creators that extracts timeline audio, runs automated speech recognition, and builds animated subtitles natively inside DaVinci Resolve.\n\nKey Highlights:\n\u2022 Direct DaVinci Resolve timeline audio track extraction\n\u2022 Local Whisper model inference with zero external cloud cost\n\u2022 Automated word-by-word subtitle track generation directly into timeline\n\u2022 Custom text styling and animation preset injection\n\nTech Stack: Python, DaVinci Resolve Scripting API, OpenAI Whisper, FFmpeg\nRepository: https://github.com/hrlpavan/AutoSubs-For-Resolve",
+    "url": "https://github.com/hrlpavan/AutoSubs-For-Resolve",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  },
+  {
+    "repo_name": "Project-And-MileStone-Databricks",
+    "title": "Databricks Project & Milestone Pipeline",
+    "description": "A structured academic and industrial milestone pipeline showcasing structured data engineering, feature extraction, and predictive modeling on Databricks clusters.\n\nKey Highlights:\n\u2022 Step-by-step milestone notebooks covering data ingestion, cleaning, and aggregation\n\u2022 Integration of machine learning algorithms on distributed datasets\n\u2022 Automated quality assertions and missing value imputations\n\u2022 Visual analytics and business KPI dashboards\n\nTech Stack: Jupyter Notebook, Databricks Runtime, PySpark MLlib, Matplotlib\nRepository: https://github.com/hrlpavan/Project-And-MileStone-Databricks",
+    "url": "https://github.com/hrlpavan/Project-And-MileStone-Databricks",
+    "created_at": "2026-08",
+    "updated_at": "2026-08"
+  }
+]
